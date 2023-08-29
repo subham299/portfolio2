@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-section{
+    width: 100rem;
+    height: 50rem;
+    background-color:darkcyan;
+    background-position: fixed;
+    justify-content: space-between;
+}
+.section-1{
+    display: flex;
+}
+.about{
+    margin-top: 2rem;
+}
+.text-content{
+    margin-top: 3rem;
+    transform: translate(40rem,0);
+    
+}
+.section-2{
+    display: flex;
+}
+.education{
+    margin-top: 2rem;
+}
+.text-content{
+    padding: -5rem,0;
+    margin-top: 2rem;
+    transform: translate(40rem,0);
+}
+.section-3{
+    display: flex;
+}
+.experience{
+    margin-top: 2rem;
+}
+.text-content{
+    margin-top: 2rem;
+    transform: translate(40rem,0);
+    
+}
+
